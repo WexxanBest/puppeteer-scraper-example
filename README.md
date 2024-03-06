@@ -28,7 +28,6 @@ proxyUrl: socks5://85.15.65.70:1080
 
 Зависимости:
 ```json
-// package.json
 {
   "dependencies": {
     "puppeteer": "^22.4.0",
